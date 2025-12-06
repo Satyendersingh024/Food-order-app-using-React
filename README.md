@@ -60,4 +60,8 @@ No backend. No database.
 Just pure frontend practice for learning React.
 
 
+https://github.com/user-attachments/assets/5eeca47c-2ca8-4cba-8895-d3a53b63c3e4
+
+
+
 
